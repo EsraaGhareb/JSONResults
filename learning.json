@@ -1,0 +1,28 @@
+{
+   "hasCourses":true,
+   "userCourses":[
+      {
+         "courseID":"Specialization Test Prep Course ",
+         "title":"Specialization Test Prep Course ",
+         "description":"Specialization Test Prep Course  Description",
+         "thumbnailURI":null,
+         "category":"Offline",
+         "dueDate":"2023-12-31T19:59:59",
+         "deepLink":"https://hcm22preview.sapsf.com/sf/learning?destUrl=https%3a%2f%2fedgegroupp%2dstage%2elms%2esapsf%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentTypeID%3dCOURSE%26componentID%3dEARTH%255fBusiness%2520Communication%26revisionDate%3d1634533980000%26hideItemDetailsBackLink%3dy%26fromSF%3dY&company=edgegrouppT1",
+         "isRequired":true ,
+         "completePercentage": "50%"
+      },
+{
+         "courseID":"Handling for ADHD students ",
+         "title":"Handling for ADHD students ",
+         "description":"Handling for ADHD students  Description",
+         "thumbnailURI":null,
+         "category":"Online",
+         "dueDate":"2023-04-15T19:59:59",
+         "deepLink":"https://hcm22preview.sapsf.com/sf/learning?destUrl=https%3a%2f%2fedgegroupp%2dstage%2elms%2esapsf%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentTypeID%3dCOURSE%26componentID%3dEARTH%255fBusiness%2520Communication%26revisionDate%3d1634533980000%26hideItemDetailsBackLink%3dy%26fromSF%3dY&company=edgegrouppT1",
+         "isRequired":false,
+          "completePercentage": "25%"
+      }
+   ],
+   "topRatedCourses":null
+}
